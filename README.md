@@ -39,7 +39,7 @@
   <a href="https://github.com/ManhviYadav/Listener-Bot.git"><img src="https://img.shields.io/badge/-🎙%20AI%20Listener%20Bot-0e75b6?style=for-the-badge" /></a>
   <a href="https://github.com/ManhviYadav/eZlearn.git"><img src="https://img.shields.io/badge/-📚%20ML%20eZlearn%20Platform-0e75b6?style=for-the-badge" /></a>
   <a href="https://github.com/ManhviYadav/Virtual-Board.git"><img src="https://img.shields.io/badge/-✒️%20Virtual%20Board-0e75b6?style=for-the-badge" /></a>
-  <a href="https://github.com/ManhviYadav/Object-detection.git"><img src="https://img.shields.io/badge/-🕵️♂️%20Object%20Detection%20-0e75b6?style=for-the-badge" /></a>
+  <a href="https://github.com/ManhviYadav/Object-detection.git"><img src="https://img.shields.io/badge/-🕵️%20Object%20Detection%20-0e75b6?style=for-the-badge" /></a>
 </p>
 
 ---
